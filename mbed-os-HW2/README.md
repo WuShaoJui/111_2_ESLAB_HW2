@@ -1,5 +1,3 @@
-Usage:
-
 =======
 ![](./resources/official_armmbed_example_badge.png)
 # Socket Example
