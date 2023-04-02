@@ -23,8 +23,8 @@
 #define TERMINAL_USE
 
 /* Update SSID and PASSWORD with own Access point settings */
-#define SSID     "chtwifi"
-#define PASSWORD "089349851"
+#define SSID     "SSID"
+#define PASSWORD "PASSWORD"
 
 uint8_t RemoteIP[] = {192,168,1,106};
 #define RemotePORT	8002
