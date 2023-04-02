@@ -10,5 +10,5 @@ Usage:
 3. Build and run the programs
 
 *1:\
-  MbedStudio: mbed_app.json (line 14, 15) , source/main.cpp (line 42, 45, 47)
-  STM32CubeIDE: WiFi_Client_Server/Src/main.c (line 26 ~ 30)
+ \tMbedStudio: mbed_app.json (line 14, 15) , source/main.cpp (line 42, 45, 47) \
+ \tSTM32CubeIDE: WiFi_Client_Server/Src/main.c (line 26 ~ 30)
